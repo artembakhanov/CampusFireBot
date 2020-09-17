@@ -1,2 +1,4 @@
 /venv/
 /.idea
+/redis_data
+/.env
